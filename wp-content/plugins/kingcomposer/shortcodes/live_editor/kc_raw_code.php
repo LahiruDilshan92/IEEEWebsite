@@ -1,0 +1,1 @@
+<div class="kc-raw-code">{{{kc.tools.base64.decode(data.atts['code'])}}}</div>
